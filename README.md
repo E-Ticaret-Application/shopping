@@ -1,0 +1,2 @@
+# shopping
+e-ticaret
