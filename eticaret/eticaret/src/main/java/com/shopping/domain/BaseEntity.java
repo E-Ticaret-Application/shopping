@@ -1,7 +1,7 @@
 package com.shopping.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.shopping.domain.user.User;
+import com.shopping.user.User;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

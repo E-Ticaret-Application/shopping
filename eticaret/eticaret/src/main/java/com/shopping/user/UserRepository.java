@@ -1,4 +1,4 @@
-package com.shopping.domain.user;
+package com.shopping.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
